@@ -1,0 +1,13 @@
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\bin\Debug\netcoreapp3.1\Oop.exe
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\bin\Debug\netcoreapp3.1\Oop.deps.json
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\bin\Debug\netcoreapp3.1\Oop.runtimeconfig.json
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\bin\Debug\netcoreapp3.1\Oop.runtimeconfig.dev.json
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\bin\Debug\netcoreapp3.1\Oop.dll
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\bin\Debug\netcoreapp3.1\Oop.pdb
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\obj\Debug\netcoreapp3.1\Oop.csprojAssemblyReference.cache
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\obj\Debug\netcoreapp3.1\Oop.AssemblyInfoInputs.cache
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\obj\Debug\netcoreapp3.1\Oop.AssemblyInfo.cs
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\obj\Debug\netcoreapp3.1\Oop.csproj.CoreCompileInputs.cache
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\obj\Debug\netcoreapp3.1\Oop.dll
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\obj\Debug\netcoreapp3.1\Oop.pdb
+C:\Users\Hanna_Piatrouskaya\cc_aqa_mentoring\task_1_3_2\Oop\Oop\obj\Debug\netcoreapp3.1\Oop.genruntimeconfig.cache
